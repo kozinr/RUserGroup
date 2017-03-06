@@ -9,3 +9,10 @@ output: html_document
 
 ## Strnda
 These are daily runoff data for EU catchments from 3 sources GRDC, EWA and CHMI, for GRDC and CHMI we have some basin spatial data as well (might be useful for the GIS-R part of our sessions)
+
+
+## Martin
+
+[Global Streamflow Characteristics Dataset](http://www.gloh2o.org/gscd/)
+
+The Global Streamflow Characteristics Dataset (GSCD) consists of global maps of 17 streamflow characteristics, such as baseflow index, runoff coefficient, and flow percentiles, providing information about runoff behavior for the entire land surface including ungauged regions. The maps are unique in that they were derived using a data-driven (top down) approach based on streamflow observations from thousands of catchments around the globe, rather than using a physically-based (bottom up) process model.
