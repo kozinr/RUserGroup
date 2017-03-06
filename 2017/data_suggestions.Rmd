@@ -1,0 +1,11 @@
+---
+title: "Data suggestions"
+author: "R User Group"
+date: "6 March 2017"
+output: html_document
+---
+
+# Suggestions for open data to work with
+
+## Strnda
+These are daily runoff data for EU catchments from 3 sources GRDC, EWA and CHMI, for GRDC and CHMI we have some basin spatial data as well (might be useful for the GIS-R part of our sessions)
